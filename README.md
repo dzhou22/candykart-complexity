@@ -12,4 +12,4 @@ They can be found at the following links:
 
 (If the above links do not work, here are the URLs: https://youtu.be/bpSBCFDPoXw, https://youtu.be/zjr-0HhHWHM.)
 
-To start, I downloaded the games and played them for a while to get to know their rules. For reductions, I consulted papers on similar games and these particular games for inspiration. I then learned the `manim` python package, used by the YouTube channel 3blue1brown, and created animations for the proofs. I also recorded my voice explaining the steps of each proof. My resources and animation code are in the description of the YouTube videos.
+To start, I downloaded the games and played them for a while to get to know their rules. For reductions, I consulted papers on similar games and these particular games for inspiration. I then learned the `manim` python package, used by the YouTube channel 3blue1brown, and created animations for the proofs. I also recorded my voice explaining the steps of each proof. I used Final Cut Pro to edit and piece things together. My resources and animation code are in the description of the YouTube videos.
