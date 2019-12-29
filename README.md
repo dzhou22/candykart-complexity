@@ -1,5 +1,5 @@
 # How hard is a video game?
-### Dylan Zhou
+### Dylan Zhou, CS 121 Final Project
 
 In class we learned to classify the complexity of many problems, including ones involving scheduling, graph-coloring, and satisfiability of boolean formulas. What if we applied the same techniques to analyze video games? In my project, I found two currently popular games from the App Store, Candy Crush and Mario Kart Tour, and prove their how hard they are. 
 
